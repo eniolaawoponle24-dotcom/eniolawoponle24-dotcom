@@ -84,7 +84,7 @@
 
 - **LinkedIn:** (https://www.linkedin.com/in/eniolaawo/)  
 - **Email:** (eniolaawoponle24@gmail.com) 
-- **Portfolio:(github.com/eniolaawoponle24-dotcom/eniolawoponle24-dotcom)
+- **Portfolio (github.com/eniolaawoponle24-dotcom/eniolawoponle24-dotcom)
 
 ---
 
