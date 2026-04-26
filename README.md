@@ -82,9 +82,9 @@
 
 ## Contact
 
-- **LinkedIn:** <your-linkedin-url>  
-- **Email:** <your-email>  
-- **Portfolio:** <your-portfolio-url>
+- **LinkedIn:** (https://www.linkedin.com/in/eniolaawo/)  
+- **Email:** (eniolaawoponle24@gmail.com) 
+- **Portfolio:** 
 
 ---
 
