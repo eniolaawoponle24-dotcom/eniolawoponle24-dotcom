@@ -84,7 +84,7 @@
 
 - **LinkedIn:** (https://www.linkedin.com/in/eniolaawo/)  
 - **Email:** (eniolaawoponle24@gmail.com) 
-- **Portfolio:** 
+- **Portfolio:(github.com/eniolaawoponle24-dotcom/eniolawoponle24-dotcom)
 
 ---
 
@@ -94,7 +94,6 @@ Thank you for visiting my GitHub. If a repository helps your work, please consid
 
 
 
-, a results-driven Cybersecurity Analyst with two years of experience protecting cloud and on-prem infrastructures. My work focuses on threat detection, vulnerability management, and continuous security monitoring. This repository gathers the lab projects and reference guides that demonstrate my technical depth and commitment to secure-by-design principles.
 
 ---
 
@@ -138,12 +137,14 @@ Thank you for visiting my GitHub. If a repository helps your work, please consid
 
 ## Tools & Skills
 
-- VirtualBox, VMware, AWS Free Tier
+- Service Now GRC, Metric Stream, Archer
+- One Trust GRC, Vanta, Drata, AuditBoard
+- LogicGate, AuditBoard, Sprinto
+-VirtualBox, VMware, AWS Free Tier
 - Wireshark, Nmap, Nessus, Nikto, sqlmap
 - Wazuh, Suricata, Elastic Stack, Splunk
 - Kali Linux, Windows Server, Ubuntu, pfSense
 - Git, GitHub, Markdown documentation
-
 ---
 
 ## Featured Repositories
